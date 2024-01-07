@@ -1,0 +1,10 @@
+org/thingsboard/rule/engine/node/rest/TbHttpClient$1.class
+org/thingsboard/rule/engine/node/credentials/ClientCredentials.class
+org/thingsboard/rule/engine/node/credentials/BasicCredentials.class
+org/thingsboard/rule/engine/node/rest/TbHttpClient$2.class
+org/thingsboard/rule/engine/node/rest/TbRestApiCallNode.class
+org/thingsboard/rule/engine/node/credentials/CertPemCredentials.class
+org/thingsboard/rule/engine/node/rest/TbRestApiCallNodeConfiguration.class
+org/thingsboard/rule/engine/node/rest/TbHttpClient.class
+org/thingsboard/rule/engine/node/credentials/AnonymousCredentials.class
+org/thingsboard/rule/engine/node/credentials/CredentialsType.class
